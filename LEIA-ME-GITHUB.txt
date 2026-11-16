@@ -1,0 +1,12 @@
+BÁRBARA GATICA — MEDIA KIT ESPAÑOL — GITHUB PAGES
+
+1. Extraia o ZIP.
+2. Abra a pasta Barbara_Gatica_ES_GitHub_PRONTO_Nov2026.
+3. No GitHub, entre no repositório que publica o site e clique Add file > Upload files.
+4. Arraste TODOS os arquivos desta pasta (index.html, style.css, main.js, imagens e favicon.svg), NÃO o ZIP fechado.
+5. Clique Commit changes. Se já existem arquivos antigos com nomes diferentes, exclua-os somente depois de conferir que o novo site funciona.
+6. Aguarde alguns minutos, atualize o site com Ctrl+F5 e teste no celular.
+
+Todos os arquivos estão no MESMO NÍVEL, sem subpastas.
+As imagens são locais; os links de imprensa, redes sociais e vídeo são externos e não exigem upload.
+As fontes Anton, Archivo e Big Shoulders Display usam Google Fonts; requerem conexão com internet.
